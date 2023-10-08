@@ -1,0 +1,21 @@
+body {
+    background-color: khaki;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.direct_speech {
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
